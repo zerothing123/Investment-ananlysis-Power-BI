@@ -19,3 +19,5 @@ To identify the most preferred investment options and analyze patterns based on 
 - Power Query
 - DAX
 
+## 🛠 Dashborad preview
+![Dashboard](dashboard.png)
