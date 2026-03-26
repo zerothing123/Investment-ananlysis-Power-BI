@@ -20,4 +20,4 @@ To identify the most preferred investment options and analyze patterns based on 
 - DAX
 
 ## 🛠 Dashborad preview
-(Sc.png)
+![Dashboard](Sc.png)
